@@ -1,6 +1,6 @@
 {
   "drive": {
-    "type": "talonFX",
+    "type": "talonfx",
     "id": 1,
     "canbus": "drivebase"
   },
